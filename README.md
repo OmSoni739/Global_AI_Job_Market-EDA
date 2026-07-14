@@ -6,7 +6,7 @@ This project is a end-to-end Exploratory Data Analysis (EDA) of a balanced Globa
 
 ## 🎯 Objectives
 
--> Understand the structure and quality of the dataset.
+-> Understand the structure and quality of the dataset.\n
 -> Perform data cleaning and preprocessing.
 -> Engineer new features from existing columns.
 -> Analyze salary trends and job market patterns.
