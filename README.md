@@ -25,7 +25,7 @@ This project is a end-to-end Exploratory Data Analysis (EDA) of a balanced Globa
 
 **Records**: 15,000
 
-**Features**: 19 columns
+**Features**: 20 columns
 
 ### Key attributes include:
 
