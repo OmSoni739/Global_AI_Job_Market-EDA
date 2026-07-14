@@ -6,12 +6,12 @@ This project is a end-to-end Exploratory Data Analysis (EDA) of a balanced Globa
 
 ## 🎯 Objectives
 
--> Understand the structure and quality of the dataset.\n
--> Perform data cleaning and preprocessing.
--> Engineer new features from existing columns.
--> Analyze salary trends and job market patterns.
--> Visualize relationships between key variables.
--> Extract meaningful, business-relevant insights.
+1. Understand the structure and quality of the dataset.
+2. Perform data cleaning and preprocessing.
+3. Engineer new features from existing columns.
+4. Analyze salary trends and job market patterns.
+5. Visualize relationships between key variables.
+6. Extract meaningful, business-relevant insights.
 
 ## 🛠️ Tools & Libraries
 
@@ -22,23 +22,25 @@ This project is a end-to-end Exploratory Data Analysis (EDA) of a balanced Globa
 ## 📂 Dataset Information
 
 **Dataset**: Global AI Job Market & Salary Trends
+
 **Records**: 15,000
+
 **Features**: 19 columns
 
 ### Key attributes include:
 
-Job Title
-Salary (USD)
-Experience Level
-Employment Type
-Company Size
-Company Location
-Industry
-Years of Experience
-Remote Ratio
-Benefits Score
-Posting Date
-Application Deadline
+- Job Title
+- Salary (USD)
+- Experience Level
+- Employment Type
+- Company Size
+- Company Location
+- Industry
+- Years of Experience
+- Remote Ratio
+- Benefits Score
+- Posting Date
+- Application Deadline
 
 ## 🔍 Approach
 
